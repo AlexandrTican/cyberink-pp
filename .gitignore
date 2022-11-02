@@ -1,0 +1,8 @@
+# dependencies
+/node-modules
+/.pnp
+.pnp.js
+
+#env variables
+.env
+.env.local
